@@ -1,0 +1,14 @@
+#wrapper {
+    margin: auto;
+}
+
+.squares {
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+
+.clear {
+    clear: both;
+}
